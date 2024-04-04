@@ -1,7 +1,12 @@
 package cl.jpino.Clase18_ejercicio1_Operando;
 
 import java.util.Scanner;
-
+/*
+● Pedir al usuario dos números y mostrar su suma
+● Leer un número y mostrar su cuadrado elevándolo al exponente 2
+● Leer dos palabras y concatenarlas en una frase usando el operador +
+● Pedir dos números y comparar si son iguales con == mostrando el resultado
+ */
 public class OperacionesIntString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -26,7 +31,7 @@ public class OperacionesIntString {
         String texto1 = sc.next();
         System.out.println("Ingrese otro texto: ");
         String texto2 = sc.next();
-        String concatenacion = texto1 + texto2;
+        String concatenacion = texto1 + texto2; // Concatena los textos ingresados
 
         System.out.println("La concatenación de los textos es: " + concatenacion);
 

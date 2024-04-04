@@ -2,6 +2,11 @@ package cl.jpino.Clase22_ejercicio1_Arreglando;
 
 import java.util.Scanner;
 
+/*
+Crear un arreglo para almacenar 3 números
+reales ingresados por el usuario y mostrar el
+mayor elemento.
+ */
 public class Arreglos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,9 @@
 package cl.jpino.clase30_ejercicio1_Cafetera;
-
+/*
+Desarrolle una clase Cafetera con los atributos capacidadMaxima (la cantidad
+máxima de café que puede contener la cafetera) y cantidadActual (la cantidad
+actual de café que hay en la cafetera).
+ */
 public class UsandoCafetera {
     public static void main(String[] args) {
         //instancia de cafetera usando constructor con parametros

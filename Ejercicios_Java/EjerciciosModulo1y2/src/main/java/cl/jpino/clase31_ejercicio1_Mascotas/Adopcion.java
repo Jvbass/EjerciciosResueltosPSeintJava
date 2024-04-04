@@ -1,5 +1,13 @@
 package cl.jpino.clase31_ejercicio1_Mascotas;
-
+/*
+En este ejercicio vamos a realizar un programa para que una Persona pueda adoptar un
+Perro. El programa debe contar de dos clases:
+● Perro, que tendrá como atributos: nombre, raza, edad y tamaño.
+● Persona con atributos: nombre, apellido, edad, RUT y Perro.
+Además, se debe crear en el main dos Personas y dos Perros.
+Es necesario asignarle a cada Persona un Perro y por último, mostrar desde la clase
+Persona, la información de los objetos Perro y Persona.
+ */
 public class Adopcion {
     public static void main(String[] args) {
         Perro perro1 = new Perro("Firulais", "Labrador", 3, "Grande");

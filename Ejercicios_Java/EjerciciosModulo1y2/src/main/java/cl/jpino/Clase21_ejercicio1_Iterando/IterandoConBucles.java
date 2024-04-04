@@ -1,5 +1,12 @@
 package cl.jpino.Clase21_ejercicio1_Iterando;
 
+/*
+Escribir un programa que sume los números
+del 1 al 10 utilizando.
+1- bucle while.
+2- bucle do-while
+3- bucle for
+ */
 public class IterandoConBucles {
 
     public static void main(String[] args) {

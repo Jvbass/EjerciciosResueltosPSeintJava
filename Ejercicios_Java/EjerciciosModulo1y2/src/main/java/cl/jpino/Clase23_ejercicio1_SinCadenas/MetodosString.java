@@ -2,6 +2,15 @@ package cl.jpino.Clase23_ejercicio1_SinCadenas;
 
 import java.util.Scanner;
 
+/*
+1- Dada una cadena, extraer la cuarta y
+quinta letra usando el método substring.
+2- Dada una cadena mostrar por pantalla la
+cantidad de vocales que tiene. Ejemplo:
+Entrada: cad = "Hola tu"
+Salida: La cantidad de vocales es 3
+ */
+
 public class MetodosString {
     public static void main(String[] args) {
 
