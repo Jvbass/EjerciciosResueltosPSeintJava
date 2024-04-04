@@ -3,10 +3,11 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-.gitignore
-
 ### IntelliJ IDEA ###
-.idea/*
+.idea/
+*.iml
+/target/
+*.log
 
 ### Eclipse ###
 .apt_generated
