@@ -18,11 +18,11 @@ Funcion convertirMoneda(cantidadEuros, moneda)
 	Definir cambio Como Real
 	
 	Si moneda = "yen" Entonces
-		cambio = cantidadEuros * 164.48
+		cambio = cantidadEuros * 129.852
 		Escribir cantidadEuros, " euro equivalen a ", cambio," yen Japones"
 	FinSi
 	Si moneda = "dolar" Entonces
-		cambio = cantidadEuros * 1.09
+		cambio = cantidadEuros * 1.28611
 		Escribir cantidadEuros, " euro equivalen a ", cambio," dolares"
 	FinSi
 	Si moneda = "libra" Entonces
