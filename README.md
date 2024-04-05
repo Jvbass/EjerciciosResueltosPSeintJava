@@ -8,6 +8,6 @@
 ## 📃Descripcion
 Ejercicios realizados durante el Modulo 2 de bootcamp Android
 
-[Ejercicios PSeint] https://github.com/Jvbass/EjerciciosResueltosPSeintJava
+[_pull request_] https://github.com/Jvbass/EjerciciosResueltosPSeintJava
 
-[Ejercicios JAVA] https://github.com/Jvbass/BilleteraVirtual
+[_pull request_] https://github.com/Jvbass/BilleteraVirtual
