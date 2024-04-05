@@ -15,9 +15,15 @@ Este proyecto contiene ejercicios de practica en Java, realizados durante el mod
   - Mayor o menor de edad
 - Condicional anidado
 - Switch case
+  - Calculadora
 - Operaciones int string
+  - Operando
 - Iterando con bucles
+  - Iterando
 - Arreglos
+  - Arreglando
 - Metodos string
-- Herencia
+  - Sin Cadenas
+- Accesadores y Mutadores
+  - Colaboración entre objetos
 - Agregacion y Composicion
