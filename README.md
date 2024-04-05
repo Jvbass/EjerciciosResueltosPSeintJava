@@ -5,7 +5,7 @@
     <span>Juan Pino Contreras.</span>
 </div>
 
-## 📃Introduccion
+## 📃Descripcion
 Ejercicios realizados durante el Modulo 2 de bootcamp Android
 
 [Ejercicios PSeint] https://github.com/Jvbass/EjerciciosResueltosPSeintJava
