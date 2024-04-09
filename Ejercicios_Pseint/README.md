@@ -21,5 +21,3 @@ Este proyecto contiene ejercicios de practica en pseudocodigo, realizados durant
   - Cambio de divisa
 - Ejercicio 16.3 - Funciones y Arreglos
   - Arreglado 
-
-- 
